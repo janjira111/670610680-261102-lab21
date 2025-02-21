@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:Janjira Thanachoknawi
+# STUDENT ID:670610680
